@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MextFullStackSaaS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\identity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\identity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|solutionrelative:mextfullstacksaas.infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.infrastructure\\persistence\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|solutionrelative:mextfullstacksaas.infrastructure\\persistence\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\enum\\aimodeltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\enum\\aimodeltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\mextFullstackSaaS.Application.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\mextFullstackSaaS.Application.csproj|solutionrelative:mextfullstacksaas.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|solutionrelative:mextfullstacksaas.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\enum\\iconshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\enum\\iconshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\enum\\iconsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\enum\\iconsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\enum\\desingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\enum\\desingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\identity\\userbalancehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\identity\\userbalancehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\identity\\userbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\identity\\userbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\common\\icreatedbyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\common\\icreatedbyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\common\\imodifiedbyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\common\\imodifiedbyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\common\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\common\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\enum\\userblancehistorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\enum\\userblancehistorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwEUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:22:47.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:59:37.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Identity\\Role.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Identity\\Role.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Identity\\Role.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Identity\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:25:59.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:48:35.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AIModelType.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Enum\\AIModelType.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Enum\\AIModelType.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Enum\\AIModelType.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Enum\\AIModelType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:12:45.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "mextFullstackSaaS.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "mextFullstackSaaS.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:41:58.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Entities\\Order.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:46:32.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IconShape.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Enum\\IconShape.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Enum\\IconShape.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Enum\\IconShape.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Enum\\IconShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:18:22.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IconSize.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Enum\\IconSize.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Enum\\IconSize.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Enum\\IconSize.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Enum\\IconSize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:11:16.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Identity\\User.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Identity\\User.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Identity\\User.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Identity\\User.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAxwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:03:58.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DesingType.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Enum\\DesingType.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Enum\\DesingType.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Enum\\DesingType.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Enum\\DesingType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:21:17.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserBalanceHistory.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Identity\\UserBalanceHistory.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Identity\\UserBalanceHistory.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Identity\\UserBalanceHistory.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Identity\\UserBalanceHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:34:03.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserBalance.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Identity\\UserBalance.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Identity\\UserBalance.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Identity\\UserBalance.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Identity\\UserBalance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:26:41.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserBlanceHistoryType.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Enum\\UserBlanceHistoryType.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Enum\\UserBlanceHistoryType.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Enum\\UserBlanceHistoryType.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Enum\\UserBlanceHistoryType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:36:30.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IModifiedByEntity.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Common\\IModifiedByEntity.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Common\\IModifiedByEntity.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Common\\IModifiedByEntity.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Common\\IModifiedByEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:59:08.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICreatedByEntity.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Common\\ICreatedByEntity.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Common\\ICreatedByEntity.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Common\\ICreatedByEntity.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Common\\ICreatedByEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:57:45.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Common\\IEntity.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Common\\IEntity.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Common\\IEntity.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Common\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:57:28.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Common\\EntityBase.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Common\\EntityBase.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Common\\EntityBase.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Common\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:57:01.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
