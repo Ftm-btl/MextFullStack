@@ -3,6 +3,78 @@
   "WorkspaceRootPath": "E:\\MextFullStackSaaS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.application\\features\\orders\\queries\\getbyid\\ordergetbyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|solutionrelative:mextfullstacksaas.application\\features\\orders\\queries\\getbyid\\ordergetbyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.application\\features\\orders\\commands\\delete\\orderdeletecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|solutionrelative:mextfullstacksaas.application\\features\\orders\\commands\\delete\\orderdeletecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE55E42-1F5D-494C-98C4-F9855288A8C0}|MextFullStackSaaS.WebApi\\MextFullStackSaaS.WebApi.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE55E42-1F5D-494C-98C4-F9855288A8C0}|MextFullStackSaaS.WebApi\\MextFullStackSaaS.WebApi.csproj|solutionrelative:mextfullstacksaas.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|solutionrelative:mextfullstacksaas.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.application\\features\\orders\\queries\\getbyid\\ordergetbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|solutionrelative:mextfullstacksaas.application\\features\\orders\\queries\\getbyid\\ordergetbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.application\\features\\orders\\queries\\getbyid\\ordergetbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|solutionrelative:mextfullstacksaas.application\\features\\orders\\queries\\getbyid\\ordergetbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.application\\features\\orders\\queries\\getbyid\\ordergetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|solutionrelative:mextfullstacksaas.application\\features\\orders\\queries\\getbyid\\ordergetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.application\\features\\orders\\commands\\delete\\orderdeletecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|solutionrelative:mextfullstacksaas.application\\features\\orders\\commands\\delete\\orderdeletecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.application\\features\\orders\\commands\\delete\\orderdeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|solutionrelative:mextfullstacksaas.application\\features\\orders\\commands\\delete\\orderdeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE55E42-1F5D-494C-98C4-F9855288A8C0}|MextFullStackSaaS.WebApi\\MextFullStackSaaS.WebApi.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCE55E42-1F5D-494C-98C4-F9855288A8C0}|MextFullStackSaaS.WebApi\\MextFullStackSaaS.WebApi.csproj|solutionrelative:mextfullstacksaas.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE55E42-1F5D-494C-98C4-F9855288A8C0}|MextFullStackSaaS.WebApi\\MextFullStackSaaS.WebApi.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE55E42-1F5D-494C-98C4-F9855288A8C0}|MextFullStackSaaS.WebApi\\MextFullStackSaaS.WebApi.csproj|solutionrelative:mextfullstacksaas.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\extensions\\integerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\extensions\\integerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.infrastructure\\persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|solutionrelative:mextfullstacksaas.infrastructure\\persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.infrastructure\\persistence\\configurations\\userbalancehistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|solutionrelative:mextfullstacksaas.infrastructure\\persistence\\configurations\\userbalancehistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.infrastructure\\persistence\\configurations\\userbalanceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|solutionrelative:mextfullstacksaas.infrastructure\\persistence\\configurations\\userbalanceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.infrastructure\\persistence\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|solutionrelative:mextfullstacksaas.infrastructure\\persistence\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\identity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\identity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +83,12 @@
       "RelativeMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|solutionrelative:mextfullstacksaas.infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.infrastructure\\persistence\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|solutionrelative:mextfullstacksaas.infrastructure\\persistence\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\enum\\aimodeltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\enum\\aimodeltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\mextFullstackSaaS.Application.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\mextFullstackSaaS.Application.csproj|solutionrelative:mextfullstacksaas.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|solutionrelative:mextfullstacksaas.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E957DE1C-4FCD-4425-8284-A37F574FBA7C}|MextFullStackSaaS.Infrastructure\\MextFullStackSaaS.Infrastructure.csproj|solutionrelative:mextfullstacksaas.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29DB7030-87EB-441F-86BB-1F0093FD6816}|mextFullstackSaaS.Application\\MextFullStackSaaS.Application.csproj|solutionrelative:mextfullstacksaas.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{36AD3046-4B57-4E22-B6B4-18C2DC9EA729}|MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj|e:\\mextfullstacksaas\\mextfullstacksaas.domain\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,11 +142,245 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderGetByIdQueryValidator.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdQueryValidator.cs",
+              "RelativeDocumentMoniker": "mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdQueryValidator.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdQueryValidator.cs",
+              "RelativeToolTip": "mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdQueryValidator.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:42:43.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "OrderDeleteCommandValidator.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Features\\Orders\\Commands\\Delete\\OrderDeleteCommandValidator.cs",
+              "RelativeDocumentMoniker": "mextFullstackSaaS.Application\\Features\\Orders\\Commands\\Delete\\OrderDeleteCommandValidator.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Features\\Orders\\Commands\\Delete\\OrderDeleteCommandValidator.cs",
+              "RelativeToolTip": "mextFullstackSaaS.Application\\Features\\Orders\\Commands\\Delete\\OrderDeleteCommandValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:32:16.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.WebApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.WebApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.WebApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MextFullStackSaaS.WebApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:03:03.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:38:22.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderGetByIdQueryHandler.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdQueryHandler.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdQueryHandler.cs",
+              "RelativeToolTip": "mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdQueryHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:13:38.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Entities\\Order.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:46:32.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderGetByIdDto.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdDto.cs",
+              "RelativeDocumentMoniker": "mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdDto.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdDto.cs",
+              "RelativeToolTip": "mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdDto.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA4wBoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:11:27.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderGetByIdQuery.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdQuery.cs",
+              "RelativeDocumentMoniker": "mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdQuery.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdQuery.cs",
+              "RelativeToolTip": "mextFullstackSaaS.Application\\Features\\Orders\\Queries\\GetById\\OrderGetByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:10:20.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDeleteCommandHandler.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Features\\Orders\\Commands\\Delete\\OrderDeleteCommandHandler.cs",
+              "RelativeDocumentMoniker": "mextFullstackSaaS.Application\\Features\\Orders\\Commands\\Delete\\OrderDeleteCommandHandler.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Features\\Orders\\Commands\\Delete\\OrderDeleteCommandHandler.cs",
+              "RelativeToolTip": "mextFullstackSaaS.Application\\Features\\Orders\\Commands\\Delete\\OrderDeleteCommandHandler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:56:14.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDeleteCommand.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Features\\Orders\\Commands\\Delete\\OrderDeleteCommand.cs",
+              "RelativeDocumentMoniker": "mextFullstackSaaS.Application\\Features\\Orders\\Commands\\Delete\\OrderDeleteCommand.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Features\\Orders\\Commands\\Delete\\OrderDeleteCommand.cs",
+              "RelativeToolTip": "mextFullstackSaaS.Application\\Features\\Orders\\Commands\\Delete\\OrderDeleteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:54:17.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.WebApi\\appsettings.json",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.WebApi\\appsettings.json",
+              "RelativeToolTip": "MextFullStackSaaS.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T10:22:40.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.WebApi\\Program.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.WebApi\\Program.cs",
+              "RelativeToolTip": "MextFullStackSaaS.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:12:52.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Extensions\\StringExtensions.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Extensions\\StringExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:33:25.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IntegerExtension.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Extensions\\IntegerExtension.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Extensions\\IntegerExtension.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Extensions\\IntegerExtension.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Domain\\Extensions\\IntegerExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:23:03.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserBalanceHistoryConfiguration.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\UserBalanceHistoryConfiguration.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\UserBalanceHistoryConfiguration.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\UserBalanceHistoryConfiguration.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\UserBalanceHistoryConfiguration.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwD8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:03:09.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:48:35.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserBalanceConfiguration.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\UserBalanceConfiguration.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\UserBalanceConfiguration.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\UserBalanceConfiguration.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\UserBalanceConfiguration.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:56:23.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA8wGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:59:37.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
@@ -99,46 +393,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderConfiguration.cs",
-              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
-              "RelativeDocumentMoniker": "MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
-              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
-              "RelativeToolTip": "MextFullStackSaaS.Infrastructure\\Persistence\\Configurations\\OrderConfiguration.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T10:59:37.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 18,
               "Title": "Role.cs",
               "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Identity\\Role.cs",
               "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Identity\\Role.cs",
               "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Identity\\Role.cs",
               "RelativeToolTip": "MextFullStackSaaS.Domain\\Identity\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T10:25:59.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "MextFullStackSaaS.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeToolTip": "MextFullStackSaaS.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T10:48:35.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
               "Title": "AIModelType.cs",
               "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Enum\\AIModelType.cs",
               "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Enum\\AIModelType.cs",
@@ -151,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "IApplicationDbContext.cs",
               "DocumentMoniker": "E:\\MextFullStackSaaS\\mextFullstackSaaS.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
               "RelativeDocumentMoniker": "mextFullstackSaaS.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
@@ -164,20 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Order.cs",
-              "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Entities\\Order.cs",
-              "ToolTip": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "MextFullStackSaaS.Domain\\Entities\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T06:46:32.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
               "Title": "IconShape.cs",
               "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Enum\\IconShape.cs",
               "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Enum\\IconShape.cs",
@@ -190,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "IconSize.cs",
               "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Enum\\IconSize.cs",
               "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Enum\\IconSize.cs",
@@ -203,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Identity\\User.cs",
               "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Identity\\User.cs",
@@ -216,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
               "Title": "DesingType.cs",
               "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Enum\\DesingType.cs",
               "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Enum\\DesingType.cs",
@@ -229,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 26,
               "Title": "UserBalanceHistory.cs",
               "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Identity\\UserBalanceHistory.cs",
               "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Identity\\UserBalanceHistory.cs",
@@ -242,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "UserBalance.cs",
               "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Identity\\UserBalance.cs",
               "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Identity\\UserBalance.cs",
@@ -255,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 32,
               "Title": "UserBlanceHistoryType.cs",
               "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Enum\\UserBlanceHistoryType.cs",
               "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Enum\\UserBlanceHistoryType.cs",
@@ -268,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 30,
               "Title": "IModifiedByEntity.cs",
               "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Common\\IModifiedByEntity.cs",
               "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Common\\IModifiedByEntity.cs",
@@ -281,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 29,
               "Title": "ICreatedByEntity.cs",
               "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Common\\ICreatedByEntity.cs",
               "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Common\\ICreatedByEntity.cs",
@@ -294,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 31,
               "Title": "IEntity.cs",
               "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Common\\IEntity.cs",
               "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Common\\IEntity.cs",
@@ -307,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "EntityBase.cs",
               "DocumentMoniker": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\Common\\EntityBase.cs",
               "RelativeDocumentMoniker": "MextFullStackSaaS.Domain\\Common\\EntityBase.cs",

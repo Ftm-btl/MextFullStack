@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bw3FELxURHwc/ySI07qDJ0P36/PXNk/x9/IAPoQPcHBFqIU+ItmqPvFiRqcLutCCIhIxOEnYPUEcBUpHlXTnXw==",
+  "dgSpecHash": "PxD+xKah9voB5zOpz9M5bJAO26PZuyQvrEINRgU9jOaSU3tiIg91g89mzI9aj4Ujg3W5VNlLWUpD8/faFdZsuw==",
   "success": true,
   "projectFilePath": "E:\\MextFullStackSaaS\\MextFullStackSaaS.Domain\\MextFullStackSaaS.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\taha\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\taha\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\taha\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.5\\microsoft.aspnetcore.cryptography.internal.8.0.5.nupkg.sha512",
     "C:\\Users\\taha\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.5\\microsoft.aspnetcore.cryptography.keyderivation.8.0.5.nupkg.sha512",
     "C:\\Users\\taha\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
